@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s6jUgEulFKqRhUj5YCxmn+eAj/ZA3FjMB2I2MgDsUBY=",
+  "Source": "BreakfastServiceApi.Api",
+  "BasePath": "_content/BreakfastServiceApi.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

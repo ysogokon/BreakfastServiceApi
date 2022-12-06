@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakfastServiceApi.Api", "BreakfastServiceApi.Api\BreakfastServiceApi.Api.csproj", "{D3821F85-3C07-4C8F-B08C-1F3E40F450F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakfastServiceApi.Contracts", "BreakfastServiceApi.Contracts\BreakfastServiceApi.Contracts.csproj", "{3CB2490E-BF14-4B2B-9F97-3F67585E0470}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3821F85-3C07-4C8F-B08C-1F3E40F450F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3821F85-3C07-4C8F-B08C-1F3E40F450F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3821F85-3C07-4C8F-B08C-1F3E40F450F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3821F85-3C07-4C8F-B08C-1F3E40F450F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB2490E-BF14-4B2B-9F97-3F67585E0470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB2490E-BF14-4B2B-9F97-3F67585E0470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB2490E-BF14-4B2B-9F97-3F67585E0470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB2490E-BF14-4B2B-9F97-3F67585E0470}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

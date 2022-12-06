@@ -1,0 +1,12 @@
+C:\Users\ysogokon\source\BreakfastServiceApi\BreakfastServiceApi.Contracts\bin\Debug\net7.0\BreakfastServiceApi.Contracts.deps.json
+C:\Users\ysogokon\source\BreakfastServiceApi\BreakfastServiceApi.Contracts\bin\Debug\net7.0\BreakfastServiceApi.Contracts.dll
+C:\Users\ysogokon\source\BreakfastServiceApi\BreakfastServiceApi.Contracts\bin\Debug\net7.0\BreakfastServiceApi.Contracts.pdb
+C:\Users\ysogokon\source\BreakfastServiceApi\BreakfastServiceApi.Contracts\obj\Debug\net7.0\BreakfastServiceApi.Contracts.csproj.AssemblyReference.cache
+C:\Users\ysogokon\source\BreakfastServiceApi\BreakfastServiceApi.Contracts\obj\Debug\net7.0\BreakfastServiceApi.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ysogokon\source\BreakfastServiceApi\BreakfastServiceApi.Contracts\obj\Debug\net7.0\BreakfastServiceApi.Contracts.AssemblyInfoInputs.cache
+C:\Users\ysogokon\source\BreakfastServiceApi\BreakfastServiceApi.Contracts\obj\Debug\net7.0\BreakfastServiceApi.Contracts.AssemblyInfo.cs
+C:\Users\ysogokon\source\BreakfastServiceApi\BreakfastServiceApi.Contracts\obj\Debug\net7.0\BreakfastServiceApi.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\ysogokon\source\BreakfastServiceApi\BreakfastServiceApi.Contracts\obj\Debug\net7.0\BreakfastServiceApi.Contracts.dll
+C:\Users\ysogokon\source\BreakfastServiceApi\BreakfastServiceApi.Contracts\obj\Debug\net7.0\refint\BreakfastServiceApi.Contracts.dll
+C:\Users\ysogokon\source\BreakfastServiceApi\BreakfastServiceApi.Contracts\obj\Debug\net7.0\BreakfastServiceApi.Contracts.pdb
+C:\Users\ysogokon\source\BreakfastServiceApi\BreakfastServiceApi.Contracts\obj\Debug\net7.0\ref\BreakfastServiceApi.Contracts.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jkIvLKaeo6EWVNIUPzxeHUZW/bE4kjojEcYYdDc8A7Wu+saWDpAZ0zXaMBrLG9YEIEp2OftosfNQ6k2KRbE6dA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ysogokon\\source\\BreakfastServiceApi\\BreakfastServiceApi.Api\\BreakfastServiceApi.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ysogokon\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
